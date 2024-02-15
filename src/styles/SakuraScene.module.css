@@ -1,0 +1,20 @@
+.startContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: #181c20;
+  color: white;
+  text-align: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.backgroundCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #181c20;
+}
